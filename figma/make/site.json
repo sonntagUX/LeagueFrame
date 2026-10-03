@@ -1,0 +1,10 @@
+{
+  "description": "Efficiently manage bowling leagues with streamlined tools for setting up leagues, entering scores, tracking standings, and publishing results for secretaries.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
